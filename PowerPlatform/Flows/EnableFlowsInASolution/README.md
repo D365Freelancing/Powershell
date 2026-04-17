@@ -11,6 +11,7 @@ A set of PowerShell scripts for enabling and disabling Power Automate flows acro
 | `PowerPlatformShared.psm1` | Shared module — handles authentication and environment resolution |
 | `Get-FlowsFromSolutions.ps1` | Retrieves flow names from one or more solutions |
 | `Enable-PowerAutomateFlows.ps1` | Enables or disables flows by name |
+| `EnableFlows.ps1` | Sample script to Enable/Disable flows |
 
 > **All three files must be in the same folder.** The scripts locate the shared module using `$PSScriptRoot`.
 
