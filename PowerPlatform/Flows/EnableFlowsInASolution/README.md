@@ -2,6 +2,7 @@
 
 A set of PowerShell scripts for enabling and disabling Power Automate flows across one or more Power Platform solutions, with a single login prompt.
 
+Note - a quick overview of this PowerShell guide is available at https://www.d365freelancing.com/post/turn-powerautomate-flows-on-in-bulk-with-powershell
 ---
 
 ## Files
